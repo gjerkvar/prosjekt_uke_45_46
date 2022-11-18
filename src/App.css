@@ -175,8 +175,8 @@ body {
 .colorThemeButton {
   color: var(--textColor);
   background-color: rgba(0, 0, 0, 0);
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
   margin-top: 20px;
   margin-bottom: 10px;
   height: 30px;
